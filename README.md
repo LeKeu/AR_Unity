@@ -21,6 +21,9 @@ Desenvolver uma aplicação de Realidade Aumentada que exiba modelos 3D de fract
 
 ![image](https://github.com/LeKeu/AR_Unity/assets/101370021/022ade0d-12e7-4c87-9ca3-8c0b353567b1)
 
+![image](https://github.com/LeKeu/AR_Unity/assets/101370021/ba97c432-ceb0-4224-a2ea-ae190a3c1b8f)
+
+
 
 
 
