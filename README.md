@@ -1,4 +1,7 @@
 # AR_Unity
+
+BUILD --> https://drive.google.com/drive/folders/19vU16OISCIXV3jiO-bfNH6bYaga0JcEo?usp=sharing
+
 Aplicativo de AR para a matério de Computação Gráfica, com foco em texturas de modelos 3d e fractais
 
 Fractais são estruturas geométricas complexas que exibem padrões autorreplicantes em diferentes escalas.
